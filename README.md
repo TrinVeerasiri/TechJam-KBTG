@@ -14,6 +14,7 @@ Final:
 https://github.com/TrinVeerasiri/TechJam-KBTG/blob/master/final.py
 
 Here are the rules in each round
+
 Audition:
 https://github.com/TrinVeerasiri/TechJam-KBTG/blob/master/TechjamAudition_Datatrack_Problems.pdf
 Final:
